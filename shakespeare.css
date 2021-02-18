@@ -40,3 +40,7 @@ td {
     border-spacing: 4px;
     background-color: greenyellow;
 }
+.name:hover{
+    text-shadow:2px 2px red;
+
+}
